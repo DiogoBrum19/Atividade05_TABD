@@ -23,6 +23,7 @@ Corpo (JSON):
 "date": "2023-10-15",
 "available_tickets": 85000
 } 
+
 6.Para listar os elementos inseridos utilize:
 
 Método: GET
