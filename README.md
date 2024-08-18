@@ -2,7 +2,7 @@ Siga o passo a passo para testar o codigo.
 
 1.Clone o repositório:
 
-git clone <https://github.com/ximitt/Atividade05TABD.git>
+git clone <https://github.com/DiogoBrum19/Atividade05_TABD>
 2.Se Preferir faça o download e abra o projeto com o programa de sua preferencia.
 
 3.Navegue ate: src\main\java\org\fundatec\MongoApplication.java 
